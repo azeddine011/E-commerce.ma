@@ -115,7 +115,7 @@ body {margin:0;}
 }
 
 .column-33 {
-    float: left;
+    float: right;
     width: 33.33333%;
     padding: 20px;
 }
